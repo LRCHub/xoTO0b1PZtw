@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヘルファイアクラブ",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-12T10:11:39.940496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘルファイアクラブ",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/01_ヘルファイアクラブ_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘルファイアクラブ",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_ヘルファイアクラブ_CLAN_QUEEN.txt"
+    }
+  ]
+}
